@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": 
+    [
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "codejava_ea411708"
+        },
+        {
+            "type": "java",
+            "name": "java-debug",
+            "request": "launch",
+            "cwd": "${workspqceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "${file}",
+            "args": ""
+        }
+    ]
+}

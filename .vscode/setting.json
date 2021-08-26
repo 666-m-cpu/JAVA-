@@ -1,0 +1,7 @@
+{
+    "javascript.imlicitProjectConfig.experimentalDecorators":true,
+    "files.autoSave":"afterDelay",
+    "editor.wordWrap":"on",
+    "workbench.colorTheme":"Solarized Dark",
+    "java.home": "D:/IDE_DEV/java/jdk"
+}

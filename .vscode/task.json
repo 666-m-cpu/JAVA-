@@ -1,0 +1,14 @@
+{
+    "type": "shell",
+    "label": "JBuild",
+    "command": "javac",
+    "args": [
+        "-g",
+        "${file}",
+        "-d",
+        "${workspaceFolder}\\exec\\java",
+        "-encoding",
+        "utf-8"
+    ],
+    "problemMatcher": []
+}
