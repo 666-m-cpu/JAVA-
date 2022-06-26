@@ -3,5 +3,5 @@
     "files.autoSave":"afterDelay",
     "editor.wordWrap":"on",
     "workbench.colorTheme":"Solarized Dark",
-    "java.home": "D:/IDE_DEV/java/jdk"
+    "java.home": "E:/IDE_DEV/java/jdk"
 }

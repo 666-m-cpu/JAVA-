@@ -7,7 +7,7 @@
             "name": "Launch hello",
             "request": "launch",
             "mainClass": "hello",
-            "projectName": "codejava_ea411708"
+            "projectName": "codejava_7f25c9c9"
         },
         {
             "type": "java",
